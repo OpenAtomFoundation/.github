@@ -2,7 +2,9 @@
 
 ----
 
-**To promote open source collaboration and innovation. To share the fruits of open source projects.**
+<p align="center">
+<b>To promote open source collaboration and innovation. To share the fruits of open source projects.</b>
+</p>
 
 * [OpenAtom Open Source Projects](https://www.openatom.org/projects)
 * [OpenAtom Open Source Way to School](https://xiaoyuanxing.openatom.cn/)
