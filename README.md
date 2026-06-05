@@ -62,7 +62,7 @@
 | 41 | AOG-CHAT | 人工智能 | [AtomGit](https://atomgit.com/aog-chat/aog-chat) |
 | 42 | BlueKernel | 操作系统 | [AtomGit](https://atomgit.com/vivoblueos) / [GitHub](https://github.com/vivoblueos) |
 | 43 | OpenFascae | 工业软件 | [AtomGit](https://atomgit.com/fastcaecodebase) |
-| 44 | CPQCTorchKit | 量子计算 | [AtomGit](https://atomgit.com/qboson/kaiwu-pytorch-plugin) / [GitHub](https://github.com/qboson/kaiwu-pytorch-plugin) |
+| 44 | CPQCTorchKit | 量子计算 | [AtomGit](https://atomgit.com/qboson) / [GitHub](https://github.com/qboson/kaiwu-pytorch-plugin) |
 | 45 | 五岳纪元 | 量子计算 | [Gitee](https://gitee.com/openwuyue) |
 | 46 | OurBMC | 操作系统 | [AtomGit](https://atomgit.com/ourbmc) / [Gitee](https://gitee.com/ourbmc) |
 | 47 | DKapture | 软件工具 | [AtomGit](https://atomgit.com/DKapture) / [GitHub](https://github.com/DKapture) |
