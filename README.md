@@ -59,7 +59,7 @@
 | 38 | TOMs | 开发框架 | [GitHub](https://github.com/ganweisoft/TOMs) |
 | 39 | M-Robots | 机器人 | [AtomGit](https://atomgit.com/m-robots) |
 | 40 | OPENIOTGO | 操作系统 | [AtomGit](https://atomgit.com/iot-group/go-iot-platform) / [Gitee](https://gitee.com/pycharm_admin/go-iot-platform) / [GitHub](https://github.com/iot-ecology/go-iot-platform) |
-| 41 | AOG-CHAT | 人工智能 | [AtomGit](https://atomgit.com/deepin123/aog-chat) |
+| 41 | AOG-CHAT | 人工智能 | [AtomGit](https://atomgit.com/aog-chat/aog-chat) |
 | 42 | BlueKernel | 操作系统 | [AtomGit](https://atomgit.com/vivoblueos) / [GitHub](https://github.com/vivoblueos) |
 | 43 | OpenFascae | 工业软件 | [AtomGit](https://atomgit.com/fastcaecodebase) |
 | 44 | CPQCTorchKit | 量子计算 | [AtomGit](https://atomgit.com/qboson/kaiwu-pytorch-plugin) / [GitHub](https://github.com/qboson/kaiwu-pytorch-plugin) |
