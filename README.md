@@ -52,7 +52,7 @@
 | 31 | OpenLoong | 机器人 | [AtomGit](https://atomgit.com/openloong) / [GitHub](https://github.com/loongopen) |
 | 32 | NXROS | 机器人 | [AtomGit](https://atomgit.com/nxrobo1/spark_noetic) |
 | 33 | IvorySQL | 数据库 | [AtomGit](https://atomgit.com/IvorySQL/IvorySQL) / [Gitee](https://gitee.com/IvorySQL/IvorySQL) / [GitHub](https://github.com/ivorysql/ivorysql) |
-| 34 | Codeya IDE | 软件工具 | [AtomGit](https://atomgit.com/linuxdeepin/deepin-unioncode) / [Gitee](https://gitee.com/deepin-community/deepin-unioncode) / [GitHub](https://github.com/linuxdeepin/deepin-unioncode) |
+| 34 | Codeya IDE | 软件工具 | [AtomGit](https://atomgit.com/codeya-ide) / [Gitee](https://gitee.com/deepin-community/deepin-unioncode) / [GitHub](https://github.com/linuxdeepin/deepin-unioncode) |
 | 35 | GeniusAI算法研发平台 | 人工智能 | [AtomGit](https://atomgit.com/geniusaiplatform) |
 | 36 | LLMOne | 人工智能 | [AtomGit](https://atomgit.com/em-geeklab/llmone) / [GitHub](https://github.com/EM-GeekLab/LLMOne) |
 | 37 | HalerockHealth | 人工智能 | [AtomGit](https://ai.atomgit.com/inspurhairuo/HaiRuo-72B-Health) |
