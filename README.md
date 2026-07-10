@@ -67,7 +67,13 @@
 | 46 | OurBMC | 操作系统 | [AtomGit](https://atomgit.com/ourbmc) / [Gitee](https://gitee.com/ourbmc) |
 | 47 | DKapture | 软件工具 | [AtomGit](https://atomgit.com/DKapture) / [GitHub](https://github.com/DKapture) |
 | 48 | 电鸿物联操作系统 | 操作系统 | [AtomGit](https://atomgit.com/power-iot) | 
-| 49 | Open supOS | 工业软件 |[AtomGit](https://atomgit.com/supos-community-edition/README)/ [Gitee](https://gitee.com/supos-community-edition) |
+| 49 | Open supOS | 工业软件 | [AtomGit](https://atomgit.com/supos-community-edition) / [Gitee](https://gitee.com/supos-community-edition) |
+| 50 | OpenLET全尺寸人形真机数据集 | 具身智能 | [AtomGit](https://atomgit.com/OpenLET) |
+| 51 | JoySafety | 人工智能 | [GitHub](https://github.com/jd-opensource/JoySafety) |
+| 52 | 龙架构二进制翻译器 | 系统软件 | [GitHub](https://github.com/lat-opensource/lat) |
+| 53 | xLLM | 人工智能 | [GitHub](https://github.com/xLLM-AI/xllm) |
+| 54 | 龙蜥操作系统 | 操作系统 | [Gitee](https://gitee.com/openanolis) |
+
 
 ### 孵化筹备期
 
@@ -86,7 +92,7 @@
 | 9 | cantian数据库存储引擎 | 数据库 | [AtomGit](https://atomgit.com/Cantian) / [Gitee](https://gitee.com/openeuler/cantian) |
 | 10 | 开源小满EasyXMen安全车控操作系统 | 操作系统 | [AtomGit](https://atomgit.com/easyxmen) |
 | 11 | EasyDarwin | 软件工具 | [GitHub](https://github.com/easydarwin) |
-| 12 | OpenLET全尺寸人形真机数据集 | 具身智能 | [AtomGit](https://atomgit.com/OpenLET) |
+
 
 ### 已归档项目
 
