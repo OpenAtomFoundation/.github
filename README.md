@@ -45,8 +45,8 @@
 | 24 | KWDB | 数据库 | [AtomGit](https://atomgit.com/kwdb) / [Gitee](https://gitee.com/kwdb) / [GitHub](https://github.com/KWDB/KWDB) |
 | 25 | Dora SSR | 游戏引擎 | [AtomGit](https://atomgit.com/ippclub/dora-ssr) / [Gitee](https://gitee.com/ippclub/dora-ssr) / [GitHub](https://github.com/ippclub/dora-ssr) |
 | 26 | EasyAda微内核 | 智能汽车 | [AtomGit](https://atomgit.com/easyada) |
-| 27 | OpenLinkSaas | 软件工具 | [AtomGit](https://atomgit.com/linksaas/) |
-| 28 | OpenIBC增强型区块链平台 | 区块链 | [AtomGit](https://atomgit.com/openibc) |
+| 27 | 吉特联鲨/apeshark | 软件工具 | [AtomGit](https://atomgit.com/linksaas/) |
+| 28 | OpenHairuoBC | 区块链 | [AtomGit](https://atomgit.com/openibc) |
 | 29 | Mobius大模型 | 人工智能 | [AtomGit](https://ai.atomgit.com/mobius-org/Mobius) |
 | 30 | openDACS | 工业软件 | [AtomGit](https://atomgit.com/opendacs) / [GitLink](https://gitlink.org.cn/opendacs) |
 | 31 | OpenLoong | 机器人 | [AtomGit](https://atomgit.com/openloong) / [GitHub](https://github.com/loongopen) |
@@ -59,7 +59,7 @@
 | 38 | TOMs | 开发框架 | [GitHub](https://github.com/ganweisoft/TOMs) |
 | 39 | M-Robots | 机器人 | [AtomGit](https://atomgit.com/m-robots) |
 | 40 | OPENIOTGO | 操作系统 | [AtomGit](https://atomgit.com/iot-group/go-iot-platform) / [Gitee](https://gitee.com/pycharm_admin/go-iot-platform) / [GitHub](https://github.com/iot-ecology/go-iot-platform) |
-| 41 | AOG-CHAT | 人工智能 | [AtomGit](https://atomgit.com/aog-chat/aog-chat) |
+| 41 | Aideportal | 人工智能 | [AtomGit](https://atomgit.com/aog-chat/aog-chat) |
 | 42 | BlueKernel | 操作系统 | [AtomGit](https://atomgit.com/vivoblueos) / [GitHub](https://github.com/vivoblueos) |
 | 43 | OpenFascae | 工业软件 | [AtomGit](https://atomgit.com/fastcaecodebase) |
 | 44 | CPQCTorchKit | 量子计算 | [AtomGit](https://atomgit.com/qboson) / [GitHub](https://github.com/qboson/kaiwu-pytorch-plugin) |
@@ -72,7 +72,7 @@
 | 51 | JoySafety | 人工智能 | [GitHub](https://github.com/jd-opensource/JoySafety) |
 | 52 | 龙架构二进制翻译器 | 系统软件 | [GitHub](https://github.com/lat-opensource/lat) |
 | 53 | xLLM | 人工智能 | [GitHub](https://github.com/xLLM-AI/xllm) |
-| 54 | 龙蜥操作系统 | 操作系统 | [Gitee](https://gitee.com/openanolis) |
+| 54 | 龙蜥操作系统 | 操作系统 | [Gitee](https://gitee.com/openanolis) / [Github](https://github.com/orgs/openanolis)  |
 
 
 ### 孵化筹备期
@@ -82,16 +82,15 @@
 | 序号 | <div style="width: 250px">项目名称</div> | <div style="width: 100px">技术领域</div> | <div style="width: 250px">代码仓库</div> |
 | :---: | :--- | :--- | :--- |
 | 1 | TKEStack | 云原生 | [GitHub](https://github.com/tkestack) |
-| 2 | openanolis | 操作系统 | [Gitee](https://gitee.com/openanolis) / [Github](https://github.com/orgs/openanolis) |
-| 3 | OpenCloudOS | 操作系统 | [AtomGit](https://atomgit.com/opencloudos) |
-| 4 | Taro | 开发框架 | [AtomGit](https://atomgit.com/NervJS/taro) / [Github](https://github.com/NervJS/taro) |
-| 5 | OpenV2X | 智能汽车 | [GitHub](https://github.com/open-v2x) |
-| 6 | CrowdOS | 程序开发 | [GitHub](https://github.com/crowdosNWPU/CrowdOS) |
-| 7 | openInula | 开发框架 | [AtomGit](https://atomgit.com/openInula) / [Gitee](https://gitee.com/openInula/inula) |
-| 8 | Kurator | 云原生 | [AtomGit](https://atomgit.com/kurator-dev) / [GitHub](https://github.com/kurator-dev/kurator) |
-| 9 | cantian数据库存储引擎 | 数据库 | [AtomGit](https://atomgit.com/Cantian) / [Gitee](https://gitee.com/openeuler/cantian) |
-| 10 | 开源小满EasyXMen安全车控操作系统 | 操作系统 | [AtomGit](https://atomgit.com/easyxmen) |
-| 11 | EasyDarwin | 软件工具 | [GitHub](https://github.com/easydarwin) |
+| 2 | OpenCloudOS | 操作系统 | [AtomGit](https://atomgit.com/opencloudos) |
+| 3 | Taro | 开发框架 | [AtomGit](https://atomgit.com/NervJS/taro) / [Github](https://github.com/NervJS/taro) |
+| 4 | OpenV2X | 智能汽车 | [GitHub](https://github.com/open-v2x) |
+| 5 | CrowdOS | 程序开发 | [GitHub](https://github.com/crowdosNWPU/CrowdOS) |
+| 6 | openInula | 开发框架 | [AtomGit](https://atomgit.com/openInula) / [Gitee](https://gitee.com/openInula/inula) |
+| 7 | Kurator | 云原生 | [AtomGit](https://atomgit.com/kurator-dev) / [GitHub](https://github.com/kurator-dev/kurator) |
+| 8 | cantian数据库存储引擎 | 数据库 | [AtomGit](https://atomgit.com/Cantian) / [Gitee](https://gitee.com/openeuler/cantian) |
+| 9 | 开源小满EasyXMen安全车控操作系统 | 操作系统 | [AtomGit](https://atomgit.com/easyxmen) |
+| 10 | EasyDarwin | 软件工具 | [GitHub](https://github.com/easydarwin) |
 
 
 ### 已归档项目
