@@ -1,6 +1,6 @@
 # 关于我们
 
-[开放原子开源基金会](https://openatom.cn/)是致力于推动全球开源事业发展的非营利机构，于2020年6月在北京成立。基金会秉持“共建、共治、共享”的核心理念，定位为以开发者为中心的开源项目孵化平台和科技公益服务机构，旨在系统打造开放协同的开源生态，提升行业协作效率，赋能千行百业，推动我国在全球开源领域的影响力不断提升，助力建设繁荣的开源生态体系。
+[开放原子开源基金会](https://openatom.cn/)是致力于推动全球开源事业发展的非营利机构，于2020年6月在北京成立。基金会秉持"共建、共治、共享"的核心理念，定位为以开发者为中心的开源项目孵化平台和科技公益服务机构，旨在系统打造开放协同的开源生态，提升行业协作效率，赋能千行百业，推动我国在全球开源领域的影响力不断提升，助力建设繁荣的开源生态体系。
 
 ## 开源项目
 
@@ -67,12 +67,12 @@
 | 46 | OurBMC | 操作系统 | [AtomGit](https://atomgit.com/ourbmc) / [Gitee](https://gitee.com/ourbmc) |
 | 47 | DKapture | 软件工具 | [AtomGit](https://atomgit.com/DKapture) / [GitHub](https://github.com/DKapture) |
 | 48 | 电鸿物联操作系统 | 操作系统 | [AtomGit](https://atomgit.com/power-iot) | 
-| 49 | Open supOS | 工业软件 | [AtomGit](https://atomgit.com/supos-community-edition) / [Gitee](https://gitee.com/supos-community-edition) |
+| 49 | Open supOS | 工业软件 |[AtomGit](https://atomgit.com/supos-community-edition)/ [Gitee](https://gitee.com/supos-community-edition) |
 | 50 | OpenLET全尺寸人形真机数据集 | 具身智能 | [AtomGit](https://atomgit.com/OpenLET) |
 | 51 | JoySafety | 人工智能 | [GitHub](https://github.com/jd-opensource/JoySafety) |
-| 52 | 龙架构二进制翻译器 | 系统软件 | [GitHub](https://github.com/lat-opensource/lat) |
+| 52 | 龙架构二进制翻译器（LAT） | 系统软件 | [GitHub](https://github.com/lat-opensource/lat) |
 | 53 | xLLM | 人工智能 | [GitHub](https://github.com/xLLM-AI/xllm) |
-| 54 | 龙蜥操作系统 | 操作系统 | [Gitee](https://gitee.com/openanolis) / [Github](https://github.com/orgs/openanolis)  |
+| 54 | 龙蜥操作系统/Anolis OS | 操作系统 | [Gitee](https://gitee.com/openanolis) / [Github](https://github.com/orgs/openanolis)  |
 
 
 ### 孵化筹备期
@@ -85,12 +85,14 @@
 | 2 | OpenCloudOS | 操作系统 | [AtomGit](https://atomgit.com/opencloudos) |
 | 3 | Taro | 开发框架 | [AtomGit](https://atomgit.com/NervJS/taro) / [Github](https://github.com/NervJS/taro) |
 | 4 | OpenV2X | 智能汽车 | [GitHub](https://github.com/open-v2x) |
-| 5 | CrowdOS | 程序开发 | [GitHub](https://github.com/crowdosNWPU/CrowdOS) |
-| 6 | openInula | 开发框架 | [AtomGit](https://atomgit.com/openInula) / [Gitee](https://gitee.com/openInula/inula) |
-| 7 | Kurator | 云原生 | [AtomGit](https://atomgit.com/kurator-dev) / [GitHub](https://github.com/kurator-dev/kurator) |
-| 8 | cantian数据库存储引擎 | 数据库 | [AtomGit](https://atomgit.com/Cantian) / [Gitee](https://gitee.com/openeuler/cantian) |
+| 5 | CrowdOS群智计算系统平台 | 程序开发 | [GitHub](https://github.com/crowdosNWPU/CrowdOS) |
+| 6 | Kurator | 云原生 | [AtomGit](https://atomgit.com/kurator-dev) / [GitHub](https://github.com/kurator-dev/kurator) |
+| 7 | openInula | 开发框架 | [AtomGit](https://atomgit.com/openInula) / [Gitee](https://gitee.com/openInula/inula) |
+| 8 | Cantian引擎 | 数据库 | [AtomGit](https://atomgit.com/Cantian) / [Gitee](https://gitee.com/openeuler/cantian) |
 | 9 | 开源小满EasyXMen安全车控操作系统 | 操作系统 | [AtomGit](https://atomgit.com/easyxmen) |
-| 10 | EasyDarwin | 软件工具 | [GitHub](https://github.com/easydarwin) |
+| 10 | EasyDarwin流媒体服务器软件 | 软件工具 | [GitHub](https://github.com/easydarwin) |
+| 11 | 人工智能软硬件测试基准AISHPerf | 软硬件测试 | [Gitee](https://gitee.com/aishperf-caict/aishperf_openness/) |
+| 12 | Infinity AI Gateway | 人工智能 | [GitHub](https://github.com/yf-networks/ai-gateway) |
 
 
 ### 已归档项目
