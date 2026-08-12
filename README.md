@@ -23,7 +23,7 @@
 | 2 | PikiwiDB | 数据库 | [AtomGit](https://atomgit.com/pikiwidb) / [GitHub](https://github.com/OpenAtomFoundation/pikiwidb) |
 | 3 | hapjs | 开发框架 | [AtomGit](https://atomgit.com/hapjs-org) / [GitHub](https://github.com/hapjs-platform) |
 | 4 | TobudOS | 操作系统 | [AtomGit](https://atomgit.com/tobudos) |
-| 5 | 狮偶 | 开发框架 | [AtomGit](https://atomgit.com/duzc2/roarlang) / [Gitee](https://gitee.com/openblock) |
+| 5 | 狮偶 | 开发框架 | [AtomGit](https://atomgit.com/roarlang) / [Gitee](https://gitee.com/roarlang) |
 | 6 | 铜锁/Tongsuo | 信息安全 | [AtomGit](https://atomgit.com/tongsuo-org) / [GitHub](https://github.com/tongsuo-project) |
 | 7 | 源师兄 | 开源硬件 | [AtomGit](https://atomgit.com/yuanshixiong) / [Gitee](https://gitee.com/Open-Brother) |
 | 8 | Vearch | 数据库 | [AtomGit](https://atomgit.com/vearch-org) / [GitHub](https://github.com/vearch) |
