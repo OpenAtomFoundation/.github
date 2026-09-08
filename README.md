@@ -61,7 +61,7 @@
 | 40 | OPENIOTGO | 操作系统 | [AtomGit](https://atomgit.com/iot-group/go-iot-platform) / [Gitee](https://gitee.com/pycharm_admin/go-iot-platform) / [GitHub](https://github.com/iot-ecology/go-iot-platform) |
 | 41 | Aideportal | 人工智能 | [AtomGit](https://atomgit.com/aog-chat/aog-chat) |
 | 42 | BlueKernel | 操作系统 | [AtomGit](https://atomgit.com/vivoblueos) / [GitHub](https://github.com/vivoblueos) |
-| 43 | OpenFascae | 工业软件 | [AtomGit](https://atomgit.com/fastcaecodebase) /[GitHub](https://github.com/OpenFascae) |
+| 43 | OpenFascae | 工业软件 | [AtomGit](https://atomgit.com/fastcaecodebase) /[Gitee](https://gitee.com/openfascae)/[GitHub](https://github.com/OpenFascae) |
 | 44 | CPQCTorchKit | 量子计算 | [AtomGit](https://atomgit.com/qboson) / [GitHub](https://github.com/qboson/kaiwu-pytorch-plugin) |
 | 45 | 五岳纪元 | 量子计算 | [AtomGit](https://atomgit.com/WUYUEQbit)/[Gitee](https://gitee.com/openwuyue) |
 | 46 | OurBMC | 操作系统 | [AtomGit](https://atomgit.com/ourbmc) / [Gitee](https://gitee.com/ourbmc) |
