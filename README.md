@@ -75,6 +75,7 @@ The Foundation continues to build a development system for open source projects,
 | 52 | LoongArch Binary Translator (LAT) | System Software | [GitHub](https://github.com/lat-opensource/lat) |
 | 53 | xLLM | Artificial Intelligence | [GitHub](https://github.com/xLLM-AI/xllm) |
 | 54 | Anolis OS | Operating System | [Gitee](https://gitee.com/openanolis) / [GitHub](https://github.com/orgs/openanolis) |
+| 55 | AISHPerf AI Software & Hardware Testing Benchmark | Software & Hardware Testing | [Gitee](https://gitee.com/aishperf-caict/aishperf_openness/) |
 
 
 ### Pre-Incubation Projects
@@ -93,8 +94,7 @@ The Foundation continues to build a development system for open source projects,
 | 8 | Cantian Engine | Database | [AtomGit](https://atomgit.com/Cantian) / [Gitee](https://gitee.com/openeuler/cantian) |
 | 9 | EasyXMen Secure Vehicle-Control Operating System (开源小满) | Operating System | [AtomGit](https://atomgit.com/easyxmen) |
 | 10 | EasyDarwin Streaming Media Server | Software Tools | [GitHub](https://github.com/easydarwin) |
-| 11 | AISHPerf AI Software & Hardware Testing Benchmark | Software & Hardware Testing | [Gitee](https://gitee.com/aishperf-caict/aishperf_openness/) |
-| 12 | Infinity AI Gateway | Artificial Intelligence | [GitHub](https://github.com/yf-networks/ai-gateway) |
+| 11 | Infinity AI Gateway | Artificial Intelligence | [GitHub](https://github.com/yf-networks/ai-gateway) |
 
 
 ### Archived Projects
