@@ -75,6 +75,7 @@
 | 52 | 龙架构二进制翻译器（LAT） | 系统软件 | [GitHub](https://github.com/lat-opensource/lat) |
 | 53 | xLLM | 人工智能 | [GitHub](https://github.com/xLLM-AI/xllm) |
 | 54 | 龙蜥操作系统/Anolis OS | 操作系统 | [Gitee](https://gitee.com/openanolis) / [Github](https://github.com/orgs/openanolis)  |
+| 55 | 人工智能软硬件测试基准AISHPerf | 软硬件测试 | [Gitee](https://gitee.com/aishperf-caict/aishperf_openness/) |
 
 
 ### 孵化筹备期
@@ -93,8 +94,8 @@
 | 8 | Cantian引擎 | 数据库 | [AtomGit](https://atomgit.com/Cantian) / [Gitee](https://gitee.com/openeuler/cantian) |
 | 9 | 开源小满EasyXMen安全车控操作系统 | 操作系统 | [AtomGit](https://atomgit.com/easyxmen) |
 | 10 | EasyDarwin流媒体服务器软件 | 软件工具 | [GitHub](https://github.com/easydarwin) |
-| 11 | 人工智能软硬件测试基准AISHPerf | 软硬件测试 | [Gitee](https://gitee.com/aishperf-caict/aishperf_openness/) |
-| 12 | Infinity AI Gateway | 人工智能 | [GitHub](https://github.com/yf-networks/ai-gateway) |
+| 11 | Infinity AI Gateway | 人工智能 | [GitHub](https://github.com/yf-networks/ai-gateway) |
+| 12 | SynData（原名：ExusData） | 人工智能 | [AtomGit](https://ai.atomgit.com/psibot-ai/SynData) |
 
 
 ### 已归档项目
