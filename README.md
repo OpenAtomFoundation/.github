@@ -95,6 +95,7 @@ The Foundation continues to build a development system for open source projects,
 | 9 | EasyXMen Secure Vehicle-Control Operating System (开源小满) | Operating System | [AtomGit](https://atomgit.com/easyxmen) |
 | 10 | EasyDarwin Streaming Media Server | Software Tools | [GitHub](https://github.com/easydarwin) |
 | 11 | Infinity AI Gateway | Artificial Intelligence | [GitHub](https://github.com/yf-networks/ai-gateway) |
+| 12 | SynData (formerly ExusData) | Artificial Intelligence | [AtomGit](https://ai.atomgit.com/psibot-ai/SynData) |
 
 
 ### Archived Projects

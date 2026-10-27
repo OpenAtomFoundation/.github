@@ -95,6 +95,7 @@
 | 9 | 开源小满EasyXMen安全车控操作系统 | 操作系统 | [AtomGit](https://atomgit.com/easyxmen) |
 | 10 | EasyDarwin流媒体服务器软件 | 软件工具 | [GitHub](https://github.com/easydarwin) |
 | 11 | Infinity AI Gateway | 人工智能 | [GitHub](https://github.com/yf-networks/ai-gateway) |
+| 12 | SynData（原名：ExusData） | 人工智能 | [AtomGit](https://ai.atomgit.com/psibot-ai/SynData) |
 
 
 ### 已归档项目
