@@ -65,7 +65,7 @@ The Foundation continues to build a development system for open source projects,
 | 42 | BlueKernel | Operating System | [AtomGit](https://atomgit.com/vivoblueos) / [GitHub](https://github.com/vivoblueos) |
 | 43 | OpenFascae | Industrial Software | [AtomGit](https://atomgit.com/fastcaecodebase) / [Gitee](https://gitee.com/openfascae) / [GitHub](https://github.com/OpenFascae) |
 | 44 | CPQCTorchKit | Quantum Computing | [AtomGit](https://atomgit.com/qboson) / [GitHub](https://github.com/qboson/kaiwu-pytorch-plugin) |
-| 45 | 五岳纪元 (Wuyue Epoch) | Quantum Computing | [AtomGit](https://atomgit.com/WUYUEQbit) / [Gitee](https://gitee.com/openwuyue) |
+| 45 | WUYUEQbit (五岳纪元) | Quantum Computing | [AtomGit](https://atomgit.com/WUYUEQbit) / [Gitee](https://gitee.com/openwuyue) |
 | 46 | OurBMC | Operating System | [AtomGit](https://atomgit.com/ourbmc) / [Gitee](https://gitee.com/ourbmc) |
 | 47 | DKapture | Software Tools | [AtomGit](https://atomgit.com/DKapture) / [GitHub](https://github.com/DKapture) |
 | 48 | 电鸿物联操作系统 (DianHong IoT OS) | Operating System | [AtomGit](https://atomgit.com/power-iot) |
