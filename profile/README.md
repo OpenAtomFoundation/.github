@@ -76,6 +76,7 @@ The Foundation continues to build a development system for open source projects,
 | 53 | xLLM | Artificial Intelligence | [GitHub](https://github.com/xLLM-AI/xllm) |
 | 54 | Anolis OS | Operating System | [Gitee](https://gitee.com/openanolis) / [GitHub](https://github.com/orgs/openanolis) |
 | 55 | AISHPerf AI Software & Hardware Testing Benchmark | Software & Hardware Testing | [Gitee](https://gitee.com/aishperf-caict/aishperf_openness/) |
+| 56 | ExusData | Artificial Intelligence | [AtomGit](https://ai.atomgit.com/psibot-ai/SynData) |
 
 
 ### Pre-Incubation Projects
@@ -95,8 +96,7 @@ The Foundation continues to build a development system for open source projects,
 | 9 | EasyXMen Secure Vehicle-Control Operating System (开源小满) | Operating System | [AtomGit](https://atomgit.com/easyxmen) |
 | 10 | EasyDarwin Streaming Media Server | Software Tools | [GitHub](https://github.com/easydarwin) |
 | 11 | Infinity AI Gateway | Artificial Intelligence | [GitHub](https://github.com/yf-networks/ai-gateway) |
-| 12 | SynData (formerly ExusData) | Artificial Intelligence | [AtomGit](https://ai.atomgit.com/psibot-ai/SynData) |
-| 13 | Space AICOS | Artificial Intelligence | [GitHub](https://github.com/stateioc) |
+| 12 | Space AICOS | Artificial Intelligence | [GitHub](https://github.com/stateioc) |
 
 
 ### Archived Projects
