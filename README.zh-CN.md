@@ -76,6 +76,7 @@
 | 53 | xLLM | 人工智能 | [GitHub](https://github.com/xLLM-AI/xllm) |
 | 54 | 龙蜥操作系统/Anolis OS | 操作系统 | [Gitee](https://gitee.com/openanolis) / [Github](https://github.com/orgs/openanolis)  |
 | 55 | 人工智能软硬件测试基准AISHPerf | 软硬件测试 | [Gitee](https://gitee.com/aishperf-caict/aishperf_openness/) |
+| 56 | ExusData | 人工智能 | [AtomGit](https://ai.atomgit.com/psibot-ai/SynData) |
 
 
 ### 孵化筹备期
@@ -95,8 +96,7 @@
 | 9 | 开源小满EasyXMen安全车控操作系统 | 操作系统 | [AtomGit](https://atomgit.com/easyxmen) |
 | 10 | EasyDarwin流媒体服务器软件 | 软件工具 | [GitHub](https://github.com/easydarwin) |
 | 11 | Infinity AI Gateway | 人工智能 | [GitHub](https://github.com/yf-networks/ai-gateway) |
-| 12 | SynData（原名：ExusData） | 人工智能 | [AtomGit](https://ai.atomgit.com/psibot-ai/SynData) |
-| 13 | Space AICOS | 人工智能 | [GitHub](https://github.com/stateioc) |
+| 12 | Space AICOS | 人工智能 | [GitHub](https://github.com/stateioc) |
 
 
 ### 已归档项目
